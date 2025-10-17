@@ -1,0 +1,3 @@
+# Clojure MCP Example
+
+Example MCP project using [mcp-sdk](https://github.com/GaiwanTeam/mcp-sdk)
