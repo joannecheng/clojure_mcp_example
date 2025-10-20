@@ -1,3 +1,13 @@
 # Clojure MCP Example
 
-Example MCP project using [mcp-sdk](https://github.com/GaiwanTeam/mcp-sdk)
+Example MCP project using [mcp-sdk](https://github.com/GaiwanTeam/mcp-sdk).
+
+Based off this [tutorial](https://modelcontextprotocol.io/docs/develop/build-server).
+
+## To run:
+
+```
+./bin/start
+```
+
+Or you can run `core.clj` from your repl.
